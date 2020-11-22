@@ -1,4 +1,6 @@
 import $ from './core';
-import modules from './modules/display';
+import './modules/display';
+import './modules/classes';
+import './modules/actions';
 
 export default $;
